@@ -1,5 +1,0 @@
-#include <stdio.h>
-int maiin () {
-printf("hello world!");
-return 0;
-}
